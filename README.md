@@ -1,6 +1,6 @@
 # MAESTRO: Task-Relevant Optimization via Adaptive Feature Enhancement and Suppression for Multi-task 3D Perception
 
-**Changwon Kang***, **Jisong Kim***, **hongjae Shin***, Junseo Park, [**Jun Won Choi†**](https://scholar.google.com/citations?user=IHH2PyYAAAAJ&hl=ko&oi=ao)  
+**Changwon Kang***, **Jisong Kim***, **hongjae Shin***, Junseo Park, **Jun Won Choi†**
 <sub>*: Equal Contribution,  †: Corresponding Author</sub>
 
 ### **South Korea**
