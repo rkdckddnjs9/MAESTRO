@@ -13,6 +13,6 @@
 
 
 ## 🔔 News
-- [2025/07]: ProtoOcc is accepted at ICCV 2025. 🔥
+- [2025/07]: MAESTRO is accepted at ICCV 2025. 🔥
 </br>
 
