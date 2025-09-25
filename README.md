@@ -6,7 +6,7 @@
 
 > **MAESTRO: Task-Relevant Optimization via Adaptive Feature Enhancement and Suppression for Multi-task 3D Perception**, ICCV 2025.
 
-> [Changwon Kang*], [Jison Kim*], [Hongjae Shin*], [Junseo Park], [Jun Won Choi]
+> [Changwon Kang*], [Jison Kim*], [Hongjae Shin*], [Junseo Park], [Jun Won Choi†]
 
 >  [[PDF]](https://arxiv.org/pdf/2509.17462) [[Project]](https://rkdckddnjs9.github.io/)
 
