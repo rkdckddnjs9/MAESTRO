@@ -44,6 +44,15 @@ CPG groups class categories into foreground and background groups and generates 
 If this work is useful for your research, please cite the following BibTeX entry.
 
 ```
+@InProceedings{Kang_2025_ICCV,
+    author    = {Kang, Changwon and Kim, Jisong and Shin, Hongjae and Park, Junseo and Choi, Jun Won},
+    title     = {MAESTRO: Task-Relevant Optimization via Adaptive Feature Enhancement and Suppression for Multi-task 3D Perception},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {28313-28323}
+}
+
 @article{kang2025maestro,
   title={MAESTRO: Task-Relevant Optimization via Adaptive Feature Enhancement and Suppression for Multi-task 3D Perception},
   author={Kang, Changwon and Kim, Jisong and Shin, Hongjae and Park, Junseo and Choi, Jun Won},
